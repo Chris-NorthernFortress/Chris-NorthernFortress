@@ -1,20 +1,20 @@
 # Hi, I'm Christian | Cloud Security & Infrastructure Specialist 🛡️
 
-[cite_start]Bilingual Cybersecurity student [cite: 3] focused on building resilient, automated, and secure cloud environments. [cite_start]Currently specializing in **AWS** and **Infrastructure as Code (Terraform)**[cite: 9, 27].
+Bilingual Cybersecurity student focused on building resilient, automated, and secure cloud environments. Currently specializing in **AWS** and **Infrastructure as Code (Terraform)**.
 
 ### 🛠️ Current Tech Stack
-* [cite_start]**Cloud:** AWS (EC2, VPC, IAM)[cite: 9, 10].
+* **Cloud:** AWS (EC2, VPC, IAM).
 * **IaC:** Terraform.
-* [cite_start]**Linux:** Hardening, ZRAM optimization, Bash scripting[cite: 9, 15, 25].
-* [cite_start]**Security:** Fail2Ban, Firewall management, Network isolation.
+* **Linux:** Hardening, ZRAM optimization, Bash scripting.
+* **Security:** Fail2Ban, Firewall management, Network isolation.
 
 ### 🚀 Featured Project: [Project Aurora Shield](https://github.com/Chris-NorthernFortress/Project-Aurora-Shield)
 A production-grade cloud infrastructure deployment featuring:
-* Custom VPC architecture.
-* Automated Linux hardening.
-* Real-time threat detection scripts.
+* **Custom VPC Architecture:** Isolated network design with specific routing.
+* **Automated Linux Hardening:** Kernel optimization via ZRAM and Bash scripting.
+* **Real-time Threat Detection:** SIEM-like monitoring with Fail2Ban and custom log analysis.
 
 ### 📫 Connect with me
-* [cite_start]**LinkedIn:** [Tu enlace de LinkedIn] [cite: 2]
-* [cite_start]**Target Roles:** L1/L2 Service Desk, Junior Cloud Support, NOC Technician[cite: 6].
-* [cite_start]**Availability:** Remote (Night/Weekend shifts preferred).
+* **LinkedIn:** https://www.linkedin.com/in/christianavilag
+* **Target Roles:** L1/L2 Service Desk, Junior Cloud Support, NOC Technician.
+* **Availability:** Remote (Night/Weekend shifts preferred).
